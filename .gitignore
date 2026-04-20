@@ -42,21 +42,11 @@ htmlcov/
 
 # fy-suites specific
 'fy'-suites/.fydata
-'fy'-suites/contractify/generated
+*/generated/
+*/imports/
 
 # System
 .DS_Store
 .env
 .env.local
 *.log
-/.venv
-/'fy'-suites/mvpify/imports
-/'fy'-suites/testify/generated
-/'fy'-suites/templatify/generated
-/'fy'-suites/securify/generated
-/'fy'-suites/postmanify/generated
-/'fy'-suites/observifyfy/generated
-/'fy'-suites/mvpify/generated
-/'fy'-suites/metrify/generated
-/'fy'-suites/documentify/generated
-/'fy'-suites/dockerify/generated
