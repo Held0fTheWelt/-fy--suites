@@ -50,3 +50,13 @@ htmlcov/
 .env.local
 *.log
 /.venv
+/'fy'-suites/mvpify/imports
+/'fy'-suites/testify/generated
+/'fy'-suites/templatify/generated
+/'fy'-suites/securify/generated
+/'fy'-suites/postmanify/generated
+/'fy'-suites/observifyfy/generated
+/'fy'-suites/mvpify/generated
+/'fy'-suites/metrify/generated
+/'fy'-suites/documentify/generated
+/'fy'-suites/dockerify/generated
